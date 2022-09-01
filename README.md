@@ -1,7 +1,7 @@
 # portfolio-2.0
 
 ## purpose
-A web development portfolio
+A web development portfolio showing projects I worked on in boot camp.
 
 ## Languages/technologies:
 * React
